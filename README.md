@@ -2,10 +2,13 @@
 
 A community notice board for the Turing Institute.
 
-**Please head over to [the wiki](https://github.com/alan-turing-institute/notice-board/wiki).**
+## Where is the wiki?
 
+You are looking at a GitHub repository which is used to host the wiki.
 
-## How to edit the wiki
+[The wiki is here](https://github.com/alan-turing-institute/notice-board/wiki).
+
+## How do I add pages and edit the wiki?
 
 If you are a member of the [alan-turing-institute](https://github.com/alan-turing-institute) organisation on GitHub you may edit the wiki. 
 
